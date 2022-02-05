@@ -1,0 +1,15 @@
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\objectWar.exe
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\objectWar.deps.json
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\objectWar.runtimeconfig.json
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\objectWar.dll
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\ref\objectWar.dll
+C:\WEB\objectWar\objectWar\bin\Debug\net6.0\objectWar.pdb
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.csproj.AssemblyReference.cache
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.AssemblyInfoInputs.cache
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.AssemblyInfo.cs
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.csproj.CoreCompileInputs.cache
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.dll
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\ref\objectWar.dll
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.pdb
+C:\WEB\objectWar\objectWar\obj\Debug\net6.0\objectWar.genruntimeconfig.cache
